@@ -836,6 +836,20 @@
       "priority": 0
     },
     {
+      "fullPath": "presets/4.3/osd/my_osd.txt",
+      "hash": "b279c7618dd49a718a08c4adeea09157449daac32d184c49a3c850bd381d396a",
+      "title": "My OSD",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "OSD",
+      "status": "OFFICIAL",
+      "keywords": [],
+      "author": "Jonathan",
+      "force_options_review": true,
+      "priority": 0
+    },
+    {
       "fullPath": "presets/4.3/osd/UAV_tech_Analog.txt",
       "hash": "b304bd4f3d0e6ab42840badced7e07847ca654c5fd048dba8c53b96128788763",
       "title": "UAV Tech - Analog",
